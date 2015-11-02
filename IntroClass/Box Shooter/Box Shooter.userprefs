@@ -1,8 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TargetExit.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayAgain1.cs">
     <Files>
       <File FileName="Assets/Scripts/TargetExit.cs" Line="32" Column="1" />
+      <File FileName="Assets/Scripts/PlayAgain1.cs" Line="4" Column="23" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="96" Column="16" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
